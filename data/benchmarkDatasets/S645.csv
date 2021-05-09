@@ -1,0 +1,646 @@
+#PDB,Partners(A_B),Protein-1,Protein-2,Mutation,ddG(kcal/mol),type
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:A488G,2.49,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:A488V,0.6,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:A492G,0.41,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:A492V,0.19,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:G489A,1.91,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:G489V,2.86,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:H487A,0.84,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:H487Q,0.8,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:H487R,1.48,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:I491A,0.07,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:I491V,-0.17,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:P485A,0.92,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:P490A,2,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:P490V,2.86,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:P493A,0.51,B
+1AK4,A_D,huCyc-A,HIV-1 CAPSID (N-Term),D:V486A,0.82,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),V:F17A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),V:Y21A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:E93A,0.82,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:G88A,2.76,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:G92A,3.69,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:H86A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:H90A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:I80A,0.82,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:I83A,3.69,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:I91A,0.41,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:K48A,0.41,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:K84A,0.65,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:M81A,3.69,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:M94A,1.42,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:Q79A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:Q87A,0,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:Q89A,1.75,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:R82A,3.69,B
+1BJ1,HL_VW,VEGF,Neutralizing mAb (fab-12),W:Y45A,0.82,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),V:F17A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),V:Y21A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:E93A,1.15,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:G88A,2.67,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:G92A,4.1,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:H86A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:H90A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:I80A,0.95,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:I83A,1.3,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:I91A,1.06,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:K48A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:K84A,1.36,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:M81A,4.1,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:M94A,1.91,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:Q79A,0.65,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:Q87A,0,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:Q89A,1.06,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:R82A,0.82,B
+1CZ8,HL_VW,VEGF,affinity matured mAb (Y0317),W:Y45A,1.94,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:D101A,1.3,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:K96A,6.1,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:K97A,3.5,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:L75A,1.5,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:N93A,0.6,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:R21A,1.3,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:S100A,0.8,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:T89A,0.8,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:W62A,0.8,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:W63A,1.3,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,C:Y20A,3.3,A
+1DQJ,C_HL,HYHEL-63,Lysozyme,H:D32A,2,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,H:W98A,4.9,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,H:Y33A,5.5,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,H:Y50A,6.9,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,H:Y53A,1.2,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,L:N31A,2,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,L:N32A,4.1,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,L:S91A,1.4,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,L:Y50A,2.7,B
+1DQJ,C_HL,HYHEL-63,Lysozyme,L:Y96A,1.1,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:H30A,1.67,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:S93A,1.17,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:W92A,0.34,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:Y32A,2.05,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:Y49A,1.64,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:Y49A,1.75,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,A:Y50A,0.69,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:D100A,2.82,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:D54A,4.32,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:D58A,1.62,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:E98A,4.23,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:N56A,1.17,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:R99A,1.89,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:T30A,0.92,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:W52A,4.17,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:Y101F,2.03,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,B:Y32A,1.85,A
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,C:Y49A,1.88,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:D52A,1.7,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:H33A,1.88,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:I101A,2.71,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:K30A,1.01,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:N55A,1.88,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:Q104A,1.64,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:R106A,4.13,B
+1DVF,AB_CD,IgG1-kappa D1.3 Fv,E5.2 Fv,D:Y102A,4.79,B
+1FFW,A_B,CHEA,CHEY,A:A90V,0.09,A
+1FFW,A_B,CHEA,CHEY,A:D13K,0.05,A
+1FFW,A_B,CHEA,CHEY,A:E117K,0.71,A
+1FFW,A_B,CHEA,CHEY,A:E93K,0.82,A
+1FFW,A_B,CHEA,CHEY,A:F111V,1.26,A
+1FFW,A_B,CHEA,CHEY,A:T112I,0.56,A
+1FFW,A_B,CHEA,CHEY,A:T87I,-0.32,A
+1FFW,A_B,CHEA,CHEY,A:V108M,1.13,A
+1FFW,A_B,CHEA,CHEY,A:Y106W,0.71,A
+1JRH,HL_I,A6 fab,IFNgammaR1-108,I:E45Q,0.11,A
+1JRH,HL_I,A6 fab,IFNgammaR1-108,I:T14V,-0.02,A
+1JTG,A_B,TEM-1 Beta-Lactamase,Beta-Lactamase inhibitor,A:K234A,0.82,A
+1JTG,A_B,TEM-1 Beta-Lactamase,Beta-Lactamase inhibitor,A:R243A,0.56,A
+1JTG,A_B,TEM-1 Beta-Lactamase,Beta-Lactamase inhibitor,A:S130A,0.5,A
+1JTG,A_B,TEM-1 Beta-Lactamase,Beta-Lactamase inhibitor,A:S235A,1.32,A
+1JTG,A_B,TEM-1 Beta-Lactamase,Beta-Lactamase inhibitor,B:D49A,1.98,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:D118A,0.9,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:D32A,1.4,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:D32N,1.7,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:E119A,1.4,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:E119Q,1.7,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:E55A,1.3,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:E75A,1,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:F110A,0.9,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:F30A,2.9,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:H79A,0.4,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:I125A,0.5,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:I50A,1.9,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:I53A,1.2,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:L27A,1.9,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:M112A,0.8,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:N47A,0.3,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:S49A,0.5,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:S52A,0.4,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:S52L,3.7,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:T51A,1.3,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:V62A,0.7,B
+1KTZ,A_B,TGF-beta type-II R,TGF-beta3,B:V77A,0.5,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:F99W,0,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:F99Y,0.76,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100F,0.57,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100I,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100L,2.73,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100M,0.1,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100S,0.56,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G100V,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G102S,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G53A,0.51,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G53N,1.26,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G53Q,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G53S,0.68,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G53W,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G54I,1.36,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G54M,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G54N,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G54T,1.17,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:G54Y,0,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:H56Y,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:K64D,-0.12,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:K64E,-0.16,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:K64N,-0.07,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:K64Q,-0.16,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:L60D,-0.12,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:R31Q,1.31,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:S35A,1.58,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:S35Q,2.73,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:S35V,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:S52M,2.08,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:S52T,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T33N,2.73,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T33Q,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T33V,0.43,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T50E,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T50Q,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:T50V,-0.26,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:Y58E,2.08,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:Y58Q,2.08,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:Y58W,0.82,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,H:Y59E,0.54,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:G92Q,1.58,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:G92S,0.51,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:H31K,1.17,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:H31R,1.12,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:H31W,1.26,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:L49F,0.71,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:L49K,0.93,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:L49W,1.91,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:L49Y,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N30K,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N30V,1.05,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N30W,1.58,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N30Y,1.91,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N52D,0.5,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N52E,-0.18,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N52K,0.66,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N52R,0.85,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N52Y,-0.1,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:N93D,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S24R,-0.07,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S28Q,-0.67,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S91K,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S91Q,1.78,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S91R,2.73,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S91T,2.32,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:S91W,8,B
+1MHP,A_HL,Integrin-I,Neutralizing hu-FAB,L:W90Q,2.08,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:K65D,0.02,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:S57A,-0.38,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:S57V,-0.49,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:T28D,-0.15,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:T31A,0.45,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:T31V,0.53,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:T31W,0.13,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,H:T58D,-0.56,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,L:N32G,-0.85,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,L:N32Y,0,B
+1MLC,E_HL,D44.1 Fab,Lysozyme,L:N92A,-1.25,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:D31A,0.25,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:D98A,1.21,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:D98W,-0.69,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:F100A,1.17,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:K30A,0.61,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:N54A,-0.15,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:R50A,8,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:T32A,0.38,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:T53A,0.78,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:W95A,8,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y100aA,8,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y100aF,-0.05,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y100aF,0.82,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y102V,0.22,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y33A,-0.09,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y52A,0.23,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),H:Y56A,0.87,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:D28N,-0.28,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:F53N,1.21,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:H91A,8,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:H91F,-0.43,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:H91F,0.03,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:N30A,1.12,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:N30S,0.06,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:R66G,0.22,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:S50A,-0.07,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:S52A,-0.31,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:T31A,0.8,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:T93A,0.82,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:T94A,-0.12,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:T94S,0.31,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:Y49A,1.05,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:Y92A,1.36,B
+1N8Z,C_HL,hu-HER2,Herceptin (fab),L:Y92F,-0.21,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:D119A,1,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:D18A,0.3,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:I124A,1.2,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:K116A,0.7,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:L129A,0.2,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:N19A,0.3,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:Q121A,2.9,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:R125A,1.8,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:S24A,0.8,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:T118A,0.8,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:V120A,0.9,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,C:Y23A,0.4,A
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:D100A,2.9,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:D54A,1,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:D58E,0.08,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:D58N,-0.13,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:G31A,0.3,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:G31E,-0.51,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:G31W,0.01,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:R99W,0.71,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:R99Y,1.26,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:S28D,0,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:S28E,-0.1,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:S28N,0.15,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:S28Q,0.08,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:W52A,0.9,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:Y101A,4,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:Y101F,1.6,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:Y32A,1.1,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,H:Y32E,1.91,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:L46D,8,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:L46E,8,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:N31W,0.17,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:T52F,0.47,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:T53R,1.67,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:W92A,3.3,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:Y32A,1.7,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:Y32W,8,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:Y50A,0.5,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:Y50K,1.67,B
+1VFB,C_HL,IGG1-Kappa D1.3 FV,Lysozyme,L:Y50R,0.85,B
+1YY9,A_HL,EGFR, Cetuximab,H:N56A,-0.06,B
+1YY9,A_HL,EGFR, Cetuximab,H:T61E,-0.06,B
+1YY9,A_HL,EGFR, Cetuximab,L:N93A,-0.74,B
+1YY9,A_HL,EGFR, Cetuximab,L:S26D,-0.2,B
+1YY9,A_HL,EGFR, Cetuximab,L:T31E,-0.52,B
+2JEL,HL_P,Jel42 antibody,HPr,P:A82S,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:D69E,0.96,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E5D,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E5Q,0.72,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E66K,4.13,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E68A,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E70A,2.75,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E70K,4.13,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E75R,2.75,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E83A,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E85A,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E85D,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E85K,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:E85Q,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:F2W,2.64,A
+2JEL,HL_P,Jel42 antibody,HPr,P:F2Y,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:H76A,-0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:H76D,-0.66,A
+2JEL,HL_P,Jel42 antibody,HPr,P:K24E,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:K27E,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:K72E,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:K72R,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:K79E,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:N12D,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:N38T,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:P11E,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:Q3K,4.13,A
+2JEL,HL_P,Jel42 antibody,HPr,P:Q4K,1.38,A
+2JEL,HL_P,Jel42 antibody,HPr,P:Q57E,-0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:Q71E,2.75,A
+2JEL,HL_P,Jel42 antibody,HPr,P:R17G,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:R17K,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:S41C,1.51,A
+2JEL,HL_P,Jel42 antibody,HPr,P:S43C,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:S46C,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:S64T,4.13,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T34Q,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T36Q,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T62A,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T62N,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T7N,0.41,A
+2JEL,HL_P,Jel42 antibody,HPr,P:T7S,0,A
+2JEL,HL_P,Jel42 antibody,HPr,P:V6F,0,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:D1058A,0.01,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:D1062A,2.53,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:E920A,2.84,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:F917A,0.42,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:F953A,4.06,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:H1064A,7.32,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:I956A,-0.01,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:K1056A,-0.03,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:K903A,0.29,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:K923A,-0.14,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:L919A,2.59,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:N918A,0.89,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:N954A,0.1,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:Q915A,0.52,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:R1061A,0.82,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:R1294A,0.3,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:S902A,-0.23,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:S955A,0,A
+2NYY,A_HL,Bont/A1,mAb CR1,A:T1063A,1.62,A
+2NYY,A_HL,Bont/A1,mAb CR1,H:K30R,0.07,B
+2NYY,A_HL,Bont/A1,mAb CR1,H:M34Q,-0.06,B
+2NYY,A_HL,Bont/A1,mAb CR1,H:Y31D,0.07,B
+2NYY,A_HL,Bont/A1,mAb CR1,H:Y31Q,0.13,B
+2NYY,A_HL,Bont/A1,mAb CR1,H:Y57Q,0.52,B
+2NYY,A_HL,Bont/A1,mAb CR1,L:D30Y,0.65,B
+2NYY,A_HL,Bont/A1,mAb CR1,L:H34R,0.1,B
+2NYY,A_HL,Bont/A1,mAb CR1,L:S28Q,0.42,B
+2NYY,A_HL,Bont/A1,mAb CR1,L:S31N,-0.36,B
+2NZ9,A_HL,Bont/A1,mAb AR2,A:D1058A,-0.03,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:D1062A,2.34,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:E920A,2.77,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:F917A,-0.05,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:F953A,3.34,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:H1064A,7.42,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:I956A,0.07,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:K1056A,-0.01,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:K903A,0.54,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:K923A,-0.3,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:L919A,2.28,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:N918A,2.16,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:N954A,-0.15,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:Q915A,0.1,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:R1061A,0.29,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:R1294A,0.39,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:S902A,-0.12,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:S955A,-0.08,A
+2NZ9,A_HL,Bont/A1,mAb AR2,A:T1063A,2.37,A
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:D31A,0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:D98A,0,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:F100A,0.7,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:G96A,0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:G97A,-0.1,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:G99A,0.8,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:K30A,0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:N54A,-0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:R50A,-0.3,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:R58A,-0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:T32A,-0.4,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:T53A,-0.5,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:W95A,2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:Y100aA,0.5,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:Y33A,0.3,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:Y52A,0.4,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,H:Y56A,0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:D27aA,0,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:G31A,1.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:G51A,1,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:H91A,2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:I27bA,1.1,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:I29A,0.8,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:P27cA,0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:R27dA,-0.2,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:S28A,1,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:S30A,1.3,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:S52A,0.1,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:T93A,-0.3,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:T94A,0,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:W50A,1.3,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:Y32A,1.7,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:Y53A,0.7,B
+3BDY,HL_V,Dual specific bH1 Fab,VEGF,L:Y92A,1.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:D31A,0.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:D98A,-0.1,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:F100A,1.9,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:G96A,0.1,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:G97A,0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:G99A,1.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:K30A,-0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:N54A,-0.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:R50A,2.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:R58A,2.5,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:T32A,-0.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:T53A,0.1,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:W95A,1.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:Y100aA,1.2,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:Y33A,2.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:Y52A,-0.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,H:Y56A,1.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:D27aA,0,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:G31A,0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:G51A,-0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:H91A,0.9,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:I27bA,-0.2,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:I29A,0.9,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:P27cA,0.1,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:R27dA,-0.2,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:S28A,0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:S30A,-0.2,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:S52A,0.3,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:T93A,-0.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:T94A,1.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:W50A,1.4,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:Y32A,-0.8,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:Y53A,0.9,B
+3BE1,A_HL,Dual specific bH1 Fab,HER2/ErbB-2,L:Y92A,0.5,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:D217A,0.57,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:D60aA,0.42,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:D60bA,0.31,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:D96A,6.7,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:E169A,0.37,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:F60eA,-0.05,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:F94A,0.64,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:F97A,6.7,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:H143A,0.09,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:I41A,0,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:I60A,0.84,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:K224A,0.79,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:L153A,0.34,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:N95A,0.77,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Q145A,0.13,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Q174A,-0.03,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Q175A,2.51,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Q221aA,0.71,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Q38A,-0.42,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:R222A,-0.09,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:R60cA,-0.05,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:R60fA,-0.07,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:R87A,-0.16,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:T150A,0.29,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:T98A,1.13,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Y146A,1.09,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,A:Y60gA,0.02,A
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:P100H,8,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:Q100aV,1.36,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:S30G,1.36,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:S30N,1.36,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:T28R,0.3,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:T98Q,0,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:T98R,-0.06,B
+3BN9,A_HL,MT-SP1,Fab Inhibitor E2,H:Y99S,0.41,B
+3HFM,HL_Y,HyHEL-10,FV,H:C95A,5.52,B
+3HFM,HL_Y,HyHEL-10,FV,H:C95F,3.25,B
+3HFM,HL_Y,HyHEL-10,FV,H:D32A,1.9,B
+3HFM,HL_Y,HyHEL-10,FV,H:D32N,0.17,B
+3HFM,HL_Y,HyHEL-10,FV,H:S31A,0.17,B
+3HFM,HL_Y,HyHEL-10,FV,H:Y33A,6,B
+3HFM,HL_Y,HyHEL-10,FV,H:Y50A,8,B
+3HFM,HL_Y,HyHEL-10,FV,L:N31A,5.22,B
+3HFM,HL_Y,HyHEL-10,FV,L:N31D,1.34,B
+3HFM,HL_Y,HyHEL-10,FV,L:N31E,5.67,B
+3HFM,HL_Y,HyHEL-10,FV,L:N32A,5.11,B
+3HFM,HL_Y,HyHEL-10,FV,L:Q53A,0.95,B
+3HFM,HL_Y,HyHEL-10,FV,L:Y50A,4.57,B
+3HFM,HL_Y,HyHEL-10,FV,L:Y50F,2.36,B
+3HFM,HL_Y,HyHEL-10,FV,L:Y50L,4.4,B
+3HFM,HL_Y,HyHEL-10,FV,L:Y96A,2.71,B
+3HFM,HL_Y,HyHEL-10,FV,L:Y96F,1.4,B
+3HFM,HL_Y,HyHEL-10,FV,Y:K96A,6.83,A
+3HFM,HL_Y,HyHEL-10,FV,Y:K97A,6.18,A
+3HFM,HL_Y,HyHEL-10,FV,Y:K97M,1.09,A
+3HFM,HL_Y,HyHEL-10,FV,Y:R21A,1.03,A
+3HFM,HL_Y,HyHEL-10,FV,Y:Y20A,4.87,A
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:E52A,2.5,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:M88A,4,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:R38A,2.5,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:W80A,4,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:Y35A,1,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:Y36A,3.7,B
+3K2M,A_D,Monobody HA4/Abl1,SH2 Domain,D:Y87A,4,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:A56G,-0.06,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:G54S,0.73,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:I30T,0.08,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:K52N,0.18,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:P62K,0.23,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:R53N,0.05,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:R61Q,0.1,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:T33Y,0.08,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:V57T,0.14,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:V73T,0.16,B
+3NGB,G_HL,VRC01,HIV-1 gp120,H:Y74S,0.33,B
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:D214A,1.48,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:D46A,0.34,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:D47A,1.08,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:D91A,1.52,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:E163A,0.62,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:F50A,0.22,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:F89A,1.61,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:F92A,0.47,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:H138A,1.89,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:I26A,0.65,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:I45A,-0.34,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:K221A,-0.1,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:L147A,0.3,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:N90A,0.26,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Q140A,0.3,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Q168A,-0.06,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Q169A,0.75,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Q218A,-0.04,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Q23A,0.03,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:R219A,-0.08,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:R48A,-1.07,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:R51A,0.14,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:R82A,-0.15,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:T144A,0.18,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:T93A,0.73,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Y141A,1.79,A
+3NPS,A_BC,MT-SP1,Fab Inhibitor S4,A:Y52A,0.46,A
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:D118A,0.8,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:D32A,1.5,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:D32N,2,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:E119A,1.5,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:E119Q,1.6,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:E55A,1.2,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:E75A,1.1,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:F110A,0.9,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:F30A,3,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:H79A,0.3,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:I125A,0.5,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:I50A,1.9,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:I53A,1.4,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:L27A,1.8,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:M112A,0.9,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:N47A,0.3,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:S49A,0.3,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:S52A,0.2,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:S52L,4,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:T51A,1.5,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:V62A,0.7,B
+HM_1KTZ,A_B,TGF-beta type-II R,TGF-beta1,B:V77A,0.4,B
+HM_1YY9,A_HL,EGFR,hu225,H:A98W,-0.23,B
+HM_1YY9,A_HL,EGFR,hu225,H:G33D,-0.89,B
+HM_1YY9,A_HL,EGFR,hu225,H:I51G,-0.51,B
+HM_1YY9,A_HL,EGFR,hu225,H:R97D,-0.99,B
+HM_1YY9,A_HL,EGFR,hu225,H:T100Y,-0.45,B
+HM_1YY9,A_HL,EGFR,hu225,H:T57G,-0.46,B
+HM_1YY9,A_HL,EGFR,hu225,H:T57P,-0.48,B
+HM_1YY9,A_HL,EGFR,hu225,H:V50L,-0.6,B
+HM_1YY9,A_HL,EGFR,hu225,H:V50Q,-0.64,B
+HM_1YY9,A_HL,EGFR,hu225,H:Y32R,-0.13,B
+HM_1YY9,A_HL,EGFR,hu225,L:A25V,-0.62,B
+HM_1YY9,A_HL,EGFR,hu225,L:G30Y,-0.92,B
+HM_1YY9,A_HL,EGFR,hu225,L:Q27Y,-0.83,B
+HM_1YY9,A_HL,EGFR,hu225,L:T97C,-0.51,B
+HM_1YY9,A_HL,EGFR,hu225,L:T97D,-0.66,B
+HM_1YY9,A_HL,EGFR,hu225,L:T97S,-0.7,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:D1062A,-0.14,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:D902A,-0.49,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:E920A,0.5,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:F953A,1.53,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:I917A,0.95,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:K915A,-0.31,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:K955A,-0.5,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:L919A,0.41,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:N918A,0.3,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:N957A,0.01,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:P1063A,0.24,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:R1061A,0.58,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:R1064A,4.44,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:R903A,-0.02,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:S954A,-0.66,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,A:T923A,0.62,A
+HM_2NYY,A_HL,Bont/A2,mAb CR1,H:K30R,0.51,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,H:M34Q,-0.01,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,H:Y31D,0.97,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,H:Y31Q,1.33,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,H:Y57Q,1.19,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,L:D30Y,0.6,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,L:H34R,0.63,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,L:S28Q,0.7,B
+HM_2NYY,A_HL,Bont/A2,mAb CR1,L:S31N,1.2,B
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:D1062A,-0.14,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:D902A,-0.49,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:E920A,0.5,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:F953A,1.53,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:I917A,0.95,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:K915A,-0.31,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:K955A,-0.5,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:L919A,0.41,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:N918A,0.3,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:N957A,0.01,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:P1063A,0.24,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:R1061A,0.58,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:R1064A,4.44,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:R903A,-0.02,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:S954A,-0.66,A
+HM_2NZ9,A_HL,Bont/A2,mAb AR2,A:T923A,0.62,A
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:P100H,1.36,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:Q100aV,0.41,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:S30G,0.71,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:S30N,0.71,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:T28R,-0.24,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:T98Q,-0.16,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:T98R,-1.57,B
+HM_3BN9,A_HL,Epithin,Fab Inhibitor E2,H:Y99S,0.54,B
