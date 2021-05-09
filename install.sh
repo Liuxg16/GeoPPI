@@ -1,4 +1,9 @@
 
+if [ $# -eq 0 ]
+then
+	echo "Please specified the argument [flag]. If your system has installed Anaconda software, please set [flag] to 1, otherwise set [flag] to 0. Then run: sh install.sh [flag]"
+	exit 8
+fi
 flag=$1  # the indicator to decide installing anaconda or not.
 
 # re-download a large trained GBT file

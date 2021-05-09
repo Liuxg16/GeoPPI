@@ -13,7 +13,7 @@ def gen_graph_data(pdbfile, mutinfo, interfile,  cutoff, if_info=None):
     lines = pdbfile.read().splitlines()
     chainid = [x.split('_')[0] for x in mutinfo]
     interface_res = read_inter_result(interfile,if_info, chainid)
-    if len(interface_res)==0: print('Warning: We do not find any interface residues between the two chains: {}. Please double check your inputs. Thank you!')
+    if len(interface_res)==0: print('Warning: We do not find any interface residues between the two parts: {}. Please double check your inputs. Thank you!'.format(if_info))
     sample = build_graph(lines, interface_res,mutinfo, cutoff,max_dis)
     return sample
 

@@ -1,4 +1,8 @@
-
+if [ $# -eq 0 ]
+then
+	echo "Please specified the argument [flag]. If your system has installed Anaconda software, please set [flag] to 1, otherwise set [flag] to 0. Then run: sh install.sh [flag]"
+	exit 8
+fi
 
 flag=$1  # the indicator to decide installing anaconda or not.
 
@@ -13,11 +17,11 @@ if [ ${flag} = 0 ] ; then
 if [ -d ~/anaconda3 ]
 then
 	echo "Warning: Directory ~/anaconda3 is detected, we are skipping the installation of Anaconda3. More information, please refer to the GeoPPI documentation."
-	exit 8
-fi
+else
 	echo "Installing Anaconda..."
 	wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
 	sh Anaconda3-2020.11-Linux-x86_64.sh -b
+fi
 fi
 
 

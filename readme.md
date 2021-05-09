@@ -21,7 +21,7 @@ Thanks to the above design, GeoPPI enjoys accurate predictive power, strong gene
 
 ## Installation
 
-This source code is tested with `Python 3.8` on`Ubuntu 20.04`.  Users need to accomplish the following three steps to complete the Intallation.
+This source code is tested with `Python 3.8` on`Ubuntu 20.04`.  Users need to accomplish the following three steps to complete the installation.
 
 ### Step 1: Clone the GitHub repository
 ```bash
