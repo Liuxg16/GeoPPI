@@ -42,9 +42,9 @@ The above script will complete the following two things: 1) building a virtual e
 
 The FoldX Suite is available through academic and commercial licenses. Please apply for a license and download FoldX v4.0 binary file from: http://foldxsuite.crg.eu/
 
-Once you download the FoldX file, please unzip the file and put the FoldX binary file in this main directory (i.e., GeoPPI/foldx). For example, suppose the file name is "foldxLinux64.tar.gz", run the following commands (ubuntu environment):
+Once you download the FoldX file, please unzip the file and put the FoldX binary file in this main directory (i.e., `GeoPPI/foldx`). For example, suppose the file name is "foldxLinux64.tar.gz", run the following commands (ubuntu environment):
 ```bash
-cp foldxLinux64.tar.gz GeoPPI/
+cp foldxLinux64.tar.gz ./
 tar -zxvf ./foldxLinux64.tar.gz
 chmod  a+x ./foldx
 ```
@@ -99,7 +99,7 @@ python run.py data/testExamples/3SGB.pdb  KI7L  E_I
 python run.py data/testExamples/3BT1.pdb  PU149A  U_A
 ```
 ## Running on your own structure
-Users can also use their own structures to analyze the mutation effects by putting the PDB files into the directory data/testExamples/ and executing the above command again:
+Users can also use their own structures to analyze the mutation effects by putting the PDB files into the directory `data/testExamples/` and executing the above command again:
 ```bash
 python run.py [pdb file] [Mutation] [partnerA_partnerB]
 ```
@@ -110,7 +110,7 @@ To reproduce the SSCV experiment on the S645 dataset, run the following command:
 ```bash
 python sscv.py  data/S645/
 ```
-After 30 minutes, you will get the prediction performance of GeoPPI (i.e., RP=0.51).
+After 30 minutes, you will get the prediction performance of GeoPPI (i.e., R=0.51).
 
 ## Contact
 If you encounter any problems during the setup of environment or the execution of GeoPPI, do not hesitate to contact  [liuxg16@mails.tsinghua.edu.cn](mailto:liuxg16@mails.tsinghua.edu.cn)  or create an issue under the repository:  [https://github.com/Liuxg16/GeoPPI](https://github.com/Liuxg16/GeoPPI).
