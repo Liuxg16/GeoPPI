@@ -34,7 +34,7 @@ Building the required dependencies requires runing the script:
 ```bash
 sh install.sh [flag]
 ```
-If your system did not install Anaconda software before, please set [flag] to 0, otherwise set [flag] to 1. 
+If your system has installed Anaconda software, please set [flag] to 1, otherwise set [flag] to 0. 
 
 The above script will complete the following two things: 1) building a virtual enviroment named "ppi"; 2) installing required dependencies.  If you meet any difficulty during this installation, please refer to the full documentation (i.e., `GeoPPI documentation.pdf`) for more details.
 
