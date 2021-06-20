@@ -26,6 +26,7 @@ fi
 
 
 eval "$(command conda 'shell.bash' 'hook' 2> /dev/null)"
+export PATH=$PATH:~/anaconda3/bin/
 conda create -n ppi python==3.8.5 -y
 conda activate ppi
 pip install  --no-cache-dir torch==1.7.0+cu110 -f  https://download.pytorch.org/whl/torch_stable.html
