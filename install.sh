@@ -20,7 +20,7 @@ then
 else
 	echo "Installing Anaconda..."
 	wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-	sh Anaconda3-2020.11-Linux-x86_64.sh -b
+	sh Anaconda3-2020.11-Linuexport PATH=$PATH:~/anaconda3/bin/x-x86_64.sh -b
 fi
 fi
 
@@ -28,6 +28,7 @@ fi
 eval "$(command conda 'shell.bash' 'hook' 2> /dev/null)"
 
 # build environment
+export PATH=$PATH:~/anaconda3/bin/
 conda create -n ppi python==3.8.5 -y
 conda activate ppi
 
