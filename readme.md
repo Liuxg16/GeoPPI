@@ -32,7 +32,7 @@ cd GeoPPI
 ### Step 2: Build the required dependencies
 Building the required dependencies requires runing the script:
 ```bash
-sh install.sh [flag]
+source install.sh [flag]
 ```
 If your system has installed Anaconda software, please set [flag] to 1, otherwise set [flag] to 0. 
 

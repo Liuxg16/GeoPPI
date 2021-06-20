@@ -29,6 +29,7 @@ eval "$(command conda 'shell.bash' 'hook' 2> /dev/null)"
 
 # build environment
 export PATH=$PATH:~/anaconda3/bin/
+source activate
 conda create -n ppi python==3.8.5 -y
 conda activate ppi
 
