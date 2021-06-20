@@ -20,7 +20,7 @@ then
 else
 	echo "Installing Anaconda..."
 	wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-	sh Anaconda3-2020.11-Linuexport PATH=$PATH:~/anaconda3/bin/x-x86_64.sh -b
+	sh Anaconda3-2020.11-Linux-x86_64.sh -b
 fi
 fi
 
